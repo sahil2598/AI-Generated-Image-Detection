@@ -1,6 +1,8 @@
-# AI-Generated Image Detection Study
+# AI-Generated Image Detection
 
-This study leverages cutting-edge deep learning architectures to enhance the detection of AI-generated images.
+This study leverages cutting-edge deep learning architectures to enhance the detection of AI-generated images. For 
+model training, a comprehensive dataset was compiled, integrating various data sources, focusing predominantly on 
+artistic works created by both AI and human artists. The core of this approach employs Convolutional Neural Networks (CNNs) and transfer learning to classify images as "Real" or "Fake." Through extensive hyperparameter tuning and training of over 10 different advanced deep learning architectures, a classification accuracy of 97.11% was achieved.
 
 ## Directory Structure
 
